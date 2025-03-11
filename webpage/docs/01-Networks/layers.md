@@ -41,8 +41,7 @@ estruturas de dados e tipos de variáveis, também fez-se necessário estabelece
 padrões para a comunicação entre computadores. Quando se fala em modelos de
 comunicação em rede, os dois padrões que valem a pena ser discutidos são os
 modelos OSI (Open Systems Interconnection) e TCP/IP (Transmission Control
-Protocol / Internet ProtocolTCP/IP (Transmission Control Protocol / Internet
-Protocol).
+Protocol / Internet Protocol).
 
 ## 1.1. Modelo OSI
 
